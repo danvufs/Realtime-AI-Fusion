@@ -62,6 +62,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For queries or feedback, please contact us at [your-email@example.com].
+For queries or feedback, please contact us at vudanmax@gmail.com.
 
 ---
